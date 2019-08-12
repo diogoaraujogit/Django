@@ -1,13 +1,13 @@
 ## **DIOGO CURSOS - A Simple Online Learning Platform**
 
-### Welcome. Please, click the link below to check out my application developed in Django.
+#### Welcome. Please, click the link below to check out my application developed in Django.
 
 https://diogo-cursos.herokuapp.com/
 
-### If there is a problem with CSS (page design), you may need to allow script execution by the browser.
+#### If there is a problem with CSS (page design), you may need to allow script execution by the browser.
 
 
-### Feel free for comments, suggestions, bugs, errors, questions or something else. You can contact me on:
+### Feel free for comments, suggestions, bugs, questions, report bugs, errors or something else. You can contact me on:
 ### daraujo.augusto@gmail.com or [LinkedIn](https://linkedin.com/in/daraujo-augusto)
 #### _This application is not finished yet_
 
