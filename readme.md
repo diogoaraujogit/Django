@@ -8,7 +8,7 @@ https://diogo-cursos.herokuapp.com/
 
 ### ABOUT IT
 #### This is a platform for online courses, sign up, sign up for courses and enjoy your classes. The platform also has the possibility of providing downloadable materials, forum for interaction between students and instructors and much more.
-#### _This application is not finished yet_
+#### _This application is only for demonstration and is not finished yet_
 
 ### CONTACT ME
 ### Feel free for comments, suggestions, questions, report bugs, errors or something else. You can contact me on:
